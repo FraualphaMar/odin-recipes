@@ -1,0 +1,25 @@
+body{
+    font-family: Tahoma, sans-serif;
+    font-size:20px;
+    text-align:center;
+}
+.inline-img{
+    display:block;
+    width:200px;
+    height:auto;
+    margin:0 auto;
+}
+div .decoration{
+    color: green;
+    margin: 16px;
+    font-weight:bold;
+}
+ul{
+    list-style-type:none;
+}
+ul a{
+    color:lightblue;
+    font-weight:bold;
+    margin:0 auto;
+    padding:8px;
+}

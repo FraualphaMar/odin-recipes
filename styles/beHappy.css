@@ -1,0 +1,16 @@
+.Happy{
+    background-color:red;
+}
+body{
+    padding:16px;
+}
+ul .left{
+    text-align:left;
+}
+ul li{
+    margin:6px;
+    list-style-type:none;
+}
+div a, p a{
+    text-decoration:none;
+}

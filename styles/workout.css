@@ -1,0 +1,15 @@
+body{
+    padding:16px;
+}
+
+.EX{
+    color:white;
+    background-color:red;
+}
+ul li{
+    margin:6px;
+    list-style-type:none;
+}
+div a, p a{
+    text-decoration:none;
+}

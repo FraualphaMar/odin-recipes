@@ -1,0 +1,14 @@
+.SW{
+    color: white;
+    background-color:purple;
+}
+body{
+    padding:16px;
+}
+ul li{
+    margin:6px;
+    list-style-type:none;
+}
+div a, p a{
+    text-decoration:none;
+}
